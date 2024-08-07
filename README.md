@@ -58,3 +58,9 @@ decrypted $plaintext = array(2) {
 }
 
 ```
+
+## ref
+* https://www.php.net/manual/en/function.openssl-encrypt.php
+* https://www.php.net/manual/en/function.openssl-decrypt.php
+* https://www.php.net/manual/en/function.openssl-random-pseudo-bytes.php
+* https://www.php.net/manual/en/function.openssl-cipher-iv-length.php
